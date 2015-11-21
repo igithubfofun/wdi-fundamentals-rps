@@ -4,12 +4,10 @@
 'use strict';
 
 function getInput() {
-  /*  var playerChoice = "";
+    var playerChoice = "";
     console.log("Please choose either 'rock', 'paper', or 'scissors'.");
     playerChoice = prompt();
     return playerChoice;
-*/
-    return "paper";
 }
 
 function randomPlay() {
